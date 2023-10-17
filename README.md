@@ -6,16 +6,21 @@
 
 Hi!✋
 
-I am a passionate Frontend Developer who thrives on crafting digital experiences that resonate with users.
-I love getting feedbacks and every feedback, positive or negative, is an opportunity for me to refine my work. 
-Also as a Data Analyst, I leverage data to inform and improve these experiences, always hunting for innovative ideas that can transform the user journey.
+I am a Frontend Developer + Data Analyst who loves crafting ideas that can enhance the user experience.
+I love getting feedbacks both positive or negative. I consider those feedbacks as an opportunity to upgrade my creation.
 
 - 🔭 I’m currently working on Flutter
 - 🌱 I'm currently learning Swift.
 - 📖 I'm currently studying Over-the-Counter drugs.
 
 
-## 🌐 Socials:
+## 🤝 Connect with me:
+
+<a href="https://www.linkedin.com/in/jongphil-moon-6074b1267"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/5296501_linkedin_network_linkedin logo_icon.png" alt="Jong Phil Moon | LinkedIn" width="35px"/></a>
+
+<a href="mailto:moonjongphil@gmail.com"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/2993691_brand_brands_gmail_logo_logos_icon.png" alt="Jong Phil Moon | Gmail" width="35px"/></a>
+</br>
+</br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jongphil-moon-6074b1267)
 
