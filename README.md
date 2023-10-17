@@ -4,11 +4,13 @@
 
 ## 💫 About Me:
 
-- :telescope: I’m working as a Mobile App Developer + Data Analyst in Educon.
+Hi!✋
+I am a passionate Frontend Developer who thrives on crafting digital experiences that resonate with users. Every feedback, positive or negative, is an opportunity for me to refine my work, ensuring that users are not just served, but delighted. Also as a Data Analyst, I leverage data to inform and improve these experiences, always hunting for innovative ideas that can transform the user journey.
 
-- :seedling: Exploring Technical Content Writing.
+- 🔭 I’m currently working on Flutter
+- 🌱 I'm currently learning Swift.
+- 📖 I'm currently studying Over-the-Counter drugs.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
 ## 🌐 Socials:
 
