@@ -6,7 +6,9 @@
 
 Hi!✋
 
-I am a passionate Frontend Developer who thrives on crafting digital experiences that resonate with users. Every feedback, positive or negative, is an opportunity for me to refine my work, ensuring that users are not just served, but delighted. Also as a Data Analyst, I leverage data to inform and improve these experiences, always hunting for innovative ideas that can transform the user journey.
+I am a passionate Frontend Developer who thrives on crafting digital experiences that resonate with users. 
+Every feedback, positive or negative, is an opportunity for me to refine my work, ensuring that users are not just served, but delighted. 
+Also as a Data Analyst, I leverage data to inform and improve these experiences, always hunting for innovative ideas that can transform the user journey.
 
 - 🔭 I’m currently working on Flutter
 - 🌱 I'm currently learning Swift.
