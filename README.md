@@ -1,7 +1,6 @@
 # 💫 About Me:
 
-🔭 I’m currently working on a mobile app called "파미 PharMy"
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m working as a Mobile App Developer + Data Analyst in Educon.
 
 - :seedling: Exploring Technical Content Writing.
 
